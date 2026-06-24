@@ -30,6 +30,16 @@ The objective was to generate business insights around revenue growth, customer 
 
 ---
 
+# 🌐 Interactive Dashboard (Live Power BI)
+
+View and interact with the live dashboard here:
+
+👉 **[View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDRkYzMxZWQtMDY0Ny00ZGQ3LWE4MGItZWViZTVlNmFlMmM4IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)**
+
+(Use slicers and filters to interact with the dashboard.)
+
+---
+
 ## Dashboard Preview
 
 <img width="900" alt="Swoop Dashboard" src="dashboard-preview.png">
@@ -49,25 +59,25 @@ The objective was to generate business insights around revenue growth, customer 
 
 ## Project Files
 
-### 📊 Power BI Dashboard
+### 📊 Power BI Dashboard File
 
-Download Power BI dashboard here:
+Download Power BI dashboard (.pbix):
 
-👉 [Open Power BI Dashboard](./swoop_dashboard.pbix)
+👉 [Download Power BI File](./swoop_dashboard.pbix)
 
 ---
 
 ### 📑 Business Presentation
 
-View presentation here:
+View project presentation:
 
-👉 [Open Business Presentation](./swoop_business_presentation.pptx)
+👉 [Open Presentation Slides](./swoop_business_presentation.pptx)
 
 ---
 
 ### 💻 SQL Analysis Queries
 
-View SQL queries here:
+View SQL queries used in analysis:
 
 👉 [Open SQL Analysis File](./swoop_analysis_queries.sql)
 
@@ -76,14 +86,14 @@ View SQL queries here:
 ## Skills Demonstrated
 
 - SQL Querying  
-- Data Cleaning  
 - PostgreSQL Database Analysis  
+- Data Cleaning  
 - DAX Measures  
-- Business Intelligence Reporting  
-- Dashboard Design  
+- Dashboard Development  
 - Customer Segmentation (RFM Analysis)  
-- Business Storytelling  
-- Strategic Recommendation Development  
+- Business Intelligence Reporting  
+- Data Storytelling  
+- Strategic Business Recommendations  
 
 ---
 
@@ -96,4 +106,3 @@ This project demonstrates my ability to work on an **end-to-end data analytics p
 ### Connect With Me
 
 **LinkedIn:*www.linkedin.com/in/esmeralda-pinamang-osei-942a35111*   
-
