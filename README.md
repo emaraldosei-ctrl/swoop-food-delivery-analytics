@@ -4,7 +4,7 @@
 
 This project analyzes operational and customer behavior data for **Swoop**, a food delivery platform, using **PostgreSQL, SQL, Power BI, and DAX**.
 
-The objective was to generate business insights around revenue growth, customer retention, operational efficiency, customer segmentation, and profitability to support strategic business decision-making.
+The goal was to identify revenue drivers, customer retention trends, operational efficiency, and customer segmentation patterns to support strategic business decision-making.
 
 ---
 
@@ -32,11 +32,11 @@ The objective was to generate business insights around revenue growth, customer 
 
 # 🌐 Interactive Dashboard (Live Power BI)
 
-View and interact with the live dashboard here:
+You can interact with the dashboard directly here:
 
-👉 **[View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDRkYzMxZWQtMDY0Ny00ZGQ3LWE4MGItZWViZTVlNmFlMmM4IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)**
+👉 **[Click Here to View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQ5ZmRhNTMtOWUxZS00N2IwLTllZTItYmY0NzRhNDdjZmFmIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)**
 
-(Use slicers and filters to interact with the dashboard.)
+Use filters and slicers to explore the dashboard.
 
 ---
 
@@ -50,9 +50,9 @@ View and interact with the live dashboard here:
 
 - Total revenue generated reached **$2.53M**  
 - Dinner category generated **$1.22M**, highest across all categories  
-- Bulk orders showed significantly lower delivery cost (**0.2% vs 6.1%**)  
+- Bulk orders proved significantly more cost-efficient (**0.2% vs 6.1%**)  
 - Monthly active customers increased by **23% in Q4**  
-- Champion customers were identified as the highest-value segment  
+- Champion customers were identified as the highest-value customer segment  
 - Top 10% customers recorded **99% retention rate**  
 
 ---
@@ -61,25 +61,25 @@ View and interact with the live dashboard here:
 
 ### 📊 Power BI Dashboard File
 
-Download Power BI dashboard (.pbix):
+Download Power BI project file:
 
-👉 [Download Power BI File](./swoop_dashboard.pbix)
+👉 [Download PBIX File](./swoop_dashboard.pbix)
 
 ---
 
-### 📑 Business Presentation
+### 📑 Executive Business Presentation
 
-View project presentation:
+View presentation slides:
 
-👉 [Open Presentation Slides](./swoop_business_presentation.pptx)
+👉 [Open Presentation](./swoop_business_presentation.pptx)
 
 ---
 
 ### 💻 SQL Analysis Queries
 
-View SQL queries used in analysis:
+View SQL queries used for data extraction and analysis:
 
-👉 [Open SQL Analysis File](./swoop_analysis_queries.sql)
+👉 [Open SQL Queries](./swoop_analysis_queries.sql)
 
 ---
 
@@ -87,11 +87,11 @@ View SQL queries used in analysis:
 
 - SQL Querying  
 - PostgreSQL Database Analysis  
-- Data Cleaning  
 - DAX Measures  
 - Dashboard Development  
 - Customer Segmentation (RFM Analysis)  
 - Business Intelligence Reporting  
+- Data Cleaning  
 - Data Storytelling  
 - Strategic Business Recommendations  
 
@@ -99,10 +99,10 @@ View SQL queries used in analysis:
 
 ## Final Outcome
 
-This project demonstrates my ability to work on an **end-to-end data analytics project**, from SQL data extraction and business analysis to dashboard development and executive-level insight generation using Power BI.
+This project demonstrates my ability to execute an **end-to-end data analytics workflow**, starting from SQL data extraction and business analysis to interactive dashboard development and executive-level business insight generation.
 
 ---
 
 ### Connect With Me
 
-**LinkedIn:*www.linkedin.com/in/esmeralda-pinamang-osei-942a35111*   
+LinkedIn: (www.linkedin.com/in/esmeralda-pinamang-osei-942a35111)  
